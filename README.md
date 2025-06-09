@@ -2,7 +2,7 @@
 
 This is a responsive and interactive personal portfolio website built with **HTML**, **CSS**, and **JavaScript**.
 It serves as an online CV to showcase personal background, skills, experience, and projects.
-## https://kale-8.github.io/Portfolio/
+## https://kale-8.github.io/Portfolio-Test/
 
 ## 🚀 Features
 
